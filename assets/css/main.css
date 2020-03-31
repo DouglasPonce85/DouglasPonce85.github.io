@@ -3336,7 +3336,7 @@ input, select, textarea {
 #honduran-flag {
 	width: 5%;
     height: 5%;
-    margin: auto auto;
+    margin: auto auto 3%;
     display: flex;
 }
 
@@ -3347,6 +3347,7 @@ input, select, textarea {
 
 #personal-bckgrnd {
 	text-decoration: underline;
+	margin: 0 0 1em 0;
 }
 
 #footer-ride {
