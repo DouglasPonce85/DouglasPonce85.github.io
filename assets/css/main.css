@@ -3360,4 +3360,20 @@ input, select, textarea {
 #profile-ride {
 	margin-top: 22px;
 }
+
+.xp-img {
+	width: 25%;
+	height: 25%;
+	display: flex;
+	margin: auto auto;
+}
+
+.xp-tec {
+	margin: 0 !important;
+}
+
+.xp-period {
+	font-size: 14px;
+	margin: 0 0 1em 0;
+}
 /***********/
